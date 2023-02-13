@@ -1,0 +1,25 @@
+.Navbar_container {
+  height: 100px;
+  width: 100%;
+  background-color: blue;
+
+ display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  column-gap: 20px;
+}
+.Home {
+  
+  float: right;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+ 
+}
+
+h4{
+  color :white;
+  width: 300px;
+  cursor: pointer;
+}
